@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+
+input{
+  width: 200px;height:30px;
+}
+
+button{
+  width:100px;height:30px
+}
